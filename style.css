@@ -1,0 +1,35 @@
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+.text_image_result{
+    background-color:grey;
+    margin-top:15px ;
+    margin-bottom: 15px;
+    border-radius: 10%;
+    padding: 10px;
+    box-shadow: 1px,1px,25px;
+    
+}
+img{
+    margin-top:10px ;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 300px;
+}
+b{
+    font-size: 150%;
+    letter-spacing: normal;
+}
+.first,.second{
+    background-color: white;
+    border-radius: 10px;
+    line-height: 20px;
+}
+h4{
+color: white;
+font-size: 150%;
+
+}
+h6{
+    font-size: 120%;
+}
